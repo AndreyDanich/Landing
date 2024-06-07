@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Старое/Front/Portfolio/Marathon/Cards"
+		},
+		{
+			"path": "../../Старое/Front/Portfolio/Marathon/Slider"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Now"
+	}
+}
